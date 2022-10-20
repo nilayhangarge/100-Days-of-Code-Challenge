@@ -47,7 +47,7 @@ def calculation(option):
 def res(resource, option):
     for key in Menu[option]["ingredients"]:  # Loop is not repeating, do solve the fault
         resource[key] -= Menu[option]["ingredients"][key]
-        return resource[key]
+        # return resource[key]
 
 
 # todo: Main Loop
