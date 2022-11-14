@@ -1,7 +1,8 @@
 from turtle import Turtle, Screen
 
-# import another_module
+import another_module
 # print(another_module.another_variable)
+print(another_module.variable)
 
 # object = class()
 timmy = Turtle()
