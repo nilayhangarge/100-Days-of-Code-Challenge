@@ -19,9 +19,9 @@ def sufficient(option):
     if Menu[option]["ingredients"]["coffee"] > resources["coffee"]:
         print("Sorry there is not enough coffee.")
         return True
-    # for item in option:
-    #     if option[item] >= resources[item]:
-    #         print(f"Sorry there is not enough {item}.")
+    # for drink in option:
+    #     if option[drink] >= resources[drink]:
+    #         print(f"Sorry there is not enough {drink}.")
     #         return True
     else:
         return False
