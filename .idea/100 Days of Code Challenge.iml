@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/local" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-1 Variables" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-2 Data Types &amp; Strings" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-3 Control Flow &amp; Logical Operators" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-4 Randomisation &amp; List" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-5 Loops" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-6 Functions &amp; Karel" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-8 Function Parameters" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-9 Dictionaries" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-10 Functions" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-12 Local, Global Scope &amp; Constants" />
+      <excludeFolder url="file://$MODULE_DIR$/Notes/Day-13 Debugging" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
